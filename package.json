@@ -1,0 +1,24 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "A web page that will assign 'ping', 'pong', or 'ping pong' to numbers based on divison factors of 5, 3, and 15; Jan 20 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katharynreed/pingpong.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katharynreed/pingpong/issues"
+  },
+  "homepage": "https://github.com/katharynreed/pingpong#readme",
+  "devDependencies": {
+    "browserify": "^14.1.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
