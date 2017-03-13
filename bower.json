@@ -1,0 +1,19 @@
+{
+  "name": "ping-pong",
+  "description": "A web page that will assign 'ping', 'pong', or 'ping pong' to numbers based on divison factors of 5, 3, and 15; Jan 20 2017",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.17.1"
+  }
+}
