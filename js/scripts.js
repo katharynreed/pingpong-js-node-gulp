@@ -11,7 +11,7 @@ var pingPongify = function(userInput) {
     } else {
       $("#pingpong-results").append("<p>"+i+"</p>");
     }
-  };
+  }
 };
 
 
